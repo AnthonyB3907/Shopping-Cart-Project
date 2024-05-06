@@ -19,6 +19,16 @@
 
 ## Changelog
 
+  ### Version 2.0
+  #### - Shop and Cart implemented
+  - Categories menu
+  - Items menu
+  - Cart display
+  - Cart saves if item is added
+  - Edit Cart (change quantity/remove items)
+  - Checkout - Cart cleared
+  - Sold items saved in a file for admin
+
   ### Version 1.0
   - Log in
   - Register a new account
