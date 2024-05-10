@@ -19,6 +19,13 @@
 
 ## Changelog
 
+  ### Version 3.0 (Final C++ Version)
+  - Admin control implemented (see admin info above)
+  - Add/Edit/Delete accounts
+  - Add/Edit/Delete items
+  - Changes immediately saved to appropriate files
+  - View total sales<br><br>
+    
   ### Version 2.0
   - Shop and Cart implemented
   - Categories menu
