@@ -1,23 +1,22 @@
 # Shopping-Cart-Project
 
-## Admin
+  This project simulates a shopping cart system (including user account systems), initially developed as a C++ console app (v1-v3) and later transitioned into a web app using PHP, JavaScript, HTML, and CSS (v4).
+  <br><br>Final project for C++: Advanced Objects course.
+  
+## Admin Account
 
   Username: admin
 
   Password: adminpass
   
 
-## Validation/Security
-
-  Purposely left out validation and error checking in most cases.
-
-  (Will be comprehensive once converted to JS.)
-
-
-  Account security is outside the scope of this project.
-  
-
 ## Changelog
+
+  ### Version 4.0 (Submitted Web Version)
+  - Frontend: HTML, CSS, JavaScript (CSS incomplete).
+  - Backend: PHP (local DB using MySQL)
+  - Transitioned from binary files to local DB to store data.
+  - C++ functionality mostly carried over to v4.0.
 
   ### Version 3.0 (Final C++ Version)
   - Admin control implemented (see admin info above)
