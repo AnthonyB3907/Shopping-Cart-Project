@@ -1,7 +1,7 @@
 # Shopping-Cart-Project
 
   This project simulates a shopping cart system (including user account systems), initially developed as a C++ console app (v1-v3) and later transitioned into a web app using PHP, JavaScript, HTML, and CSS (v4).
-  <br><br>Final project for C++: Advanced Objects course.
+  <br><br>Final project for C++: Advanced Objects class.
   
 ## Admin Account
 
